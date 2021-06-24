@@ -1,5 +1,7 @@
 package edu.cnm.deepdive;
 
+import static java.lang.Math.sqrt;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -17,6 +19,8 @@ public class Test {
     System.out.println(deck);
     Collections.shuffle(deck);
     System.out.println(deck);
+
+    sqrt(10);
   }
 
 }
