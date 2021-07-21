@@ -2,6 +2,9 @@ package edu.cnm.deepdive;
 
 import static java.lang.Math.sqrt;
 
+import edu.cnm.deepdive.playingcards.model.Card;
+import edu.cnm.deepdive.playingcards.model.Rank;
+import edu.cnm.deepdive.playingcards.model.Suit;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
