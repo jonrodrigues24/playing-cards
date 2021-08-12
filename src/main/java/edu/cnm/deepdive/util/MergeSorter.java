@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.general.model.util;
+package edu.cnm.deepdive.util;
 
 public class MergeSorter {
 

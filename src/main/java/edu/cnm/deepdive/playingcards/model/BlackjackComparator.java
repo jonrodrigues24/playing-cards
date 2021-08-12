@@ -1,6 +1,6 @@
 package edu.cnm.deepdive.playingcards.model;
 
-import edu.cnm.deepdive.general.model.Hand;
+import edu.cnm.deepdive.Hand;
 import java.util.Comparator;
 import java.util.Map;
 
